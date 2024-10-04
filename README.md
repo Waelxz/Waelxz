@@ -4,7 +4,7 @@ I am a third-year Business Intelligence student at IHEC Carthage, specializing i
 
 ## Skills
 - **Programming Languages**: Python, SQL, Java, C
-- **Tools/Technologies**: Power BI, Oracle Database, Visual Studio Code, PyTorch, TensorFlow
+- **Tools/Technologies**: Power BI, Oracle Database, TensorFlow 
 
 ## Interests
 I am passionate about data science, machine learning, and artificial intelligence. I strive to leverage these technologies to uncover insights and drive strategic business decisions.
