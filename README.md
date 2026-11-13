@@ -4,15 +4,8 @@
 <p align="center">For inquiries, contact me at <a href="mailto:wael.dridi.m2025@ihec.ucar.tn">wael.dridi.m2025@ihec.ucar.tn</a></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Waelxz&label=Profile%20Views&color=a88eff&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Waelxz?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/Waelxz?color=ceb011&style=flat&logo=star" alt="GitHub Stars" /></a>
   <a href="https://www.linkedin.com/in/dridiwael"><img src="https://img.shields.io/badge/LinkedIn-dridiwael-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-1F2937?style=flat" alt="Location" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waelxz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Waelxz GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waelxz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Waelxz Top Languages" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Featured Projects
