@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-1F2937?style=flat" alt="Location" />
 </p>
 
+> Master's student in Big Data Analytics at IHEC Carthage (B.Sc. in Business Intelligence), building Deep Learning, RAG, and full-stack AI applications across clinical EEG analysis, multilingual healthcare companions, and enterprise data pipelines.
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Featured Projects
 
 - **[epilepsy-eeg-ai](https://github.com/Waelxz/epilepsy-eeg-ai):** Built a full-stack clinical decision-support platform for focal epilepsy EEG classification.
@@ -44,10 +46,3 @@
   <a href="mailto:wael.dridi.m2025@ihec.ucar.tn"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
   <a href="https://github.com/Waelxz"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
-
-<details>
-  <summary>About</summary>
-
-  Master's student in Big Data Analytics at IHEC Carthage (B.Sc. in Business Intelligence), focused on AI/ML, Data Science, Deep Learning, Retrieval-Augmented Generation (RAG), and full-stack AI applications.
-
-</details>
